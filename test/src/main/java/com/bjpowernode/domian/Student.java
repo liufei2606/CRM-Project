@@ -4,7 +4,7 @@ public class Student {
     private int id;
     private String name;
     private String pwd;
-
+    private String email;
     public int getId() {
         return id;
     }
